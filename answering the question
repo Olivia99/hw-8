@@ -1,0 +1,21 @@
+a. What line of code waits one and a half seconds?
+       delay(1500);
+
+b. Why does a resistor need an LED?
+    Because a resistor is not a conductor, it does't consume energy. 
+    if you connet resistor in a cricut without LED, you connect the power source directly to the power source which will cost damages 
+
+c. Why is a breadboard useful?
+
+to stablise your wires. 
+
+d. Identify at least least 2 things you did not understand from the reading
+1: Arduino library---where I can find it and how I can use it. 
+what are the basic commands I need to know in order to write codes in arduino?
+
+2:The position of the servo motor is set by the length of a pulse. 
+  The servo expects to receive a pulse roughly every 20 milliseconds.
+  If that pulse is high for 1 millisecond, then the servo angle will be zero, if it is 1.5 milliseconds, 
+  then it will be at its centre position and if it is 2 milliseconds it will be at 180 degrees.
+
+
